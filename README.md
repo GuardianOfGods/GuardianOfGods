@@ -44,3 +44,5 @@ You can see my resume [Here](https://github.com/ThunderSword99/ThunderSword99/bl
 (2) Save the fish - Dig this!: [CH PLAY](https://play.google.com/store/apps/details?id=com.gamee.fishdig&hl=en&gl=US)<br />
 (3) Transform Battle: [CH PLAY](https://play.google.com/store/apps/details?id=com.gamee.transformbattle)<br />
 (4) Hero Pyramid Puzzle: [CH PLAY](https://play.google.com/store/apps/details?id=com.gamee.heropyramid)<br />
+(5) Squid Pin 3D: [CH PLAY](https://play.google.com/store/apps/details?id=com.GameeStudio.PoppyPin3D)<br />
+(6) Fruit Cutter 3D: [CH PLAY](https://play.google.com/store/apps/details?id=com.gamee.fruitcutter3dfree)<br />
