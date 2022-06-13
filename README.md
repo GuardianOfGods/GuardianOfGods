@@ -11,7 +11,7 @@
 </p>
 	
 🔭 I’m currently working on [Gamee Studio](https://gameestudio.com/).<br>
-🌱 I’m currently learning Unity.<br>
+🌱 I’m currently learning Unity. <br>
 👯 I’m looking to collaborate on Game Development.<br>
 📫 How to reach me: Send an email to guardian.of.gods99@gmail.com or contact me at **0915419991**.<br>
 ⚡ Fun fact: life is just another game. To win it, you should find your destination. With me, it's a girl.<br>
