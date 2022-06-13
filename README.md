@@ -27,7 +27,7 @@
 </p>
 
 📝 **Here's my CVs** <br />
-You can see my resume [Here](https://github.com/ThunderSword99/ThunderSword99/blob/main/Files/MyCV-EN.pdf) or download from the link below: <br />
+You can see my resume [Here](https://github.com/GuardianOfGods/GuardianOfGods/blob/main/Files/MyCV-EN.pdf) or download from the link below: <br />
 <a href="https://github.com/ThunderSword99/ThunderSword99/raw/main/Files/MyCV-VN.pdf" download="MyCV-VN.pdf">MyCV-VN.pdf (Vietnamese)</a> <br />
 <a href="https://github.com/ThunderSword99/ThunderSword99/raw/main/Files/MyCV-ENG.pdf" download="MyCV-VN.pdf">MyCV-ENG.pdf (English)</a> <br />
 <br />
