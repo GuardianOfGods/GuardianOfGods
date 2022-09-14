@@ -1,12 +1,10 @@
 ![Git][git-shield]
 ![Unity][unity-shield]
 ![Rider][rider-shield]
-
-![Star][star-shield]
 ### Hi there 👋, I'm Hoang Van Thu (Hoàng Văn Thụ)
 
 <div align="center">
-	<img src="Media/Banner.png" alt="ContactCard">
+	<img src="Media/Banner.png" alt="ContactCard"> 
 <p align='center'>
 <a href="https://www.facebook.com/sThunderSwords"><img height="30" src="Media/Icons/facebook.png"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/guardian.of.gods/"><img height="30" src="Media/Icons/instagram.png"></a>&nbsp;&nbsp;
@@ -58,3 +56,4 @@ You can see my resume [Here](https://github.com/GuardianOfGods/GuardianOfGods/bl
 [rider-shield]: https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white
 [star-shield]: https://img.shields.io/github/stars/GuardianOfGods?style=social
 [stats-shield]: https://github-readme-stats.vercel.app/api/top-langs/?username=GuardianOfGods&theme=blue-green
+
