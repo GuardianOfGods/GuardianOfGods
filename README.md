@@ -22,6 +22,12 @@
 
   ---
  
+ <div align="center">
+	<img src="https://github.com/GuardianOfGods/GuardianOfGods/blob/main/github-contribution-grid-snake.svg">
+</div>
+
+
+
 <p>
   <a href="https://github.com/GuardianOfGods/GuardianOfGods/blob/main/Media/resume.jpg"><img width="120" height="150" align='right'src="Media/resume.jpg?raw=true"></a>
 </p>
