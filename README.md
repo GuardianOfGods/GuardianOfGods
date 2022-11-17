@@ -55,7 +55,7 @@ You can see my resume [Here](https://github.com/GuardianOfGods/GuardianOfGods/bl
 (4) Hero Pyramid Puzzle: [CH PLAY](https://play.google.com/store/apps/details?id=com.gamee.heropyramid)<br />
 (5) Squid Pin 3D: [CH PLAY](https://play.google.com/store/apps/details?id=com.GameeStudio.PoppyPin3D)<br />
 (6) Fruit Cutter 3D: [CH PLAY](https://play.google.com/store/apps/details?id=com.gamee.fruitcutter3dfree)<br />
-(7) Ghost Run 3D: [CH PLAY](https://play.google.com/store/apps/details?id=com.gamee.ghost.evolution),[APP STORE](https://apps.apple.com/tr/app/ghost-evolution-tap-soul-of-the-creepy-mutant/id1111106682)<br />
+(7) Ghost Run 3D: [CH PLAY](https://play.google.com/store/apps/details?id=com.gamee.ghost.evolution), [APP STORE](https://apps.apple.com/tr/app/ghost-evolution-tap-soul-of-the-creepy-mutant/id1111106682)<br />
 (8) Pull Pin Out 3D: [CH PLAY](https://play.google.com/store/apps/details?id=com.gamee.pull.pin.puzzle), [APP STORE](https://apps.apple.com/us/app/pull-pin-out-3d/id6443933564) <br />
 
 [git-shield]: https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
