@@ -22,7 +22,10 @@
 
   ---
  
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+ <div align="center">
+	<img src="https://raw.githubusercontent.com/GuardianOfGods/GuardianOfGods/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="ContactCard"> 
+<p align='center'>
+
 
   ---
 
