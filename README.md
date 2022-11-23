@@ -21,7 +21,6 @@
 </div>
 
   ---
- 
  <div align="center">
 	<img src="https://raw.githubusercontent.com/GuardianOfGods/GuardianOfGods/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="ContactCard"> 
 <p align='center'>
