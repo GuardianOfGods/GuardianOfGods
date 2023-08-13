@@ -58,7 +58,9 @@ You can see my resume [Here](https://github.com/GuardianOfGods/GuardianOfGods/bl
 (6) Fruit Cutter 3D: [CH PLAY](https://play.google.com/store/apps/details?id=com.gamee.fruitcutter3dfree)<br />
 (7) Ghost Run 3D: [CH PLAY](https://play.google.com/store/apps/details?id=com.gamee.ghost.evolution), [APP STORE](https://apps.apple.com/tr/app/ghost-evolution-tap-soul-of-the-creepy-mutant/id1111106682)<br />
 (8) Pull Pin Out 3D: [CH PLAY](https://play.google.com/store/apps/details?id=com.gamee.pull.pin.puzzle), [APP STORE](https://apps.apple.com/us/app/pull-pin-out-3d/id6443933564) <br />
-(9) Kingdom Shot 3D: [CH PLAY](https://play.google.com/store/apps/details?id=com.gamee.games.onebutton.kingdomshot&hl=vi&gl=US)
+(9) Kingdom Shot 3D: [CH PLAY](https://play.google.com/store/apps/details?id=com.gamee.games.onebutton.kingdomshot&hl=vi&gl=US) <br />
+(10) Dig Master: [CH PLAY](https://play.google.com/store/apps/details?id=com.gamee.digmaster.escape.underground), [APP STORE](https://apps.apple.com/ca/app/dig-master-zombiesurvival/id6450600298) <br />
+(11) Home Pin 3: [CH PLAY](https://play.google.com/store/apps/details?id=com.gamee.brainly.homepin3.pullpin.puzzle), [APP STORE](https://apps.apple.com/vn/app/home-pin-3d/id6451407662)
 
 [git-shield]: https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
 [unity-shield]: https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white
