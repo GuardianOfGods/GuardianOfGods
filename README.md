@@ -30,7 +30,7 @@
   ---
 
 <p>
-  <a href="https://github.com/GuardianOfGods/GuardianOfGods/blob/main/Media/Gif1.gif"><img width="500" align='right'src="Media/Gif1.gif?raw=true"></a>
+  <a href="https://github.com/GuardianOfGods/GuardianOfGods/blob/main/Media/Gif1.gif"><img width="400" align='right'src="Media/Gif1.gif?raw=true"></a>
 </p>
  
 🎮 **Here's my public games project** <br />
