@@ -4,7 +4,7 @@
 ### Hi there 👋, I'm Hoang Van Thu (Hoàng Văn Thụ)
 
 <div align="center">
-	<img src="Media/Banner.png" alt="ContactCard"> 
+	<img src="https://github.com/GuardianOfGods/GuardianOfGods/assets/52252046/9fcd0977-75d5-406d-afb4-2b07683ae3c7" alt="ContactCard"> 
 <p align='center'>
 <a href="https://www.facebook.com/sThunderSwords"><img height="30" src="Media/Icons/facebook.png"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/guardian.of.gods/"><img height="30" src="Media/Icons/instagram.png"></a>&nbsp;&nbsp;
@@ -14,10 +14,10 @@
 </p>
 	
 🔭 I’m currently working on [Gamee Studio](https://gameestudio.com/).<br>
-🌱 I’m currently learning Unity. <br>
+🌱 I’m currently learning Unity especially on mobile games. <br>
 👯 I’m looking to collaborate on Game Development.<br>
-📫 How to reach me: Send an email to guardian.of.gods99@gmail.com or contact me at **0915419991**.<br>
-⚡ Fun fact: life is just another game. To win it, you should find your destination. With me, it's a girl.<br>
+📫 How to reach me: Send an email to **guardian.of.gods99@gmail.com** or via [facebook](https://www.facebook.com/sThunderSwords/) <br>
+⚡ Fun fact: life is just another game. To win it, you should find your destination.<br>
 </div>
 
   ---
