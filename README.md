@@ -30,23 +30,7 @@
   ---
 
 <p>
-  <a href="https://github.com/GuardianOfGods/GuardianOfGods/blob/main/Media/resume.jpg"><img width="120" height="150" align='right'src="Media/resume.jpg?raw=true"></a>
-</p>
-<p>
-  <a href="https://github.com/GuardianOfGods/GuardianOfGods/blob/main/Media/resume2.jpg"><img width="120" height="150" align='right'src="Media/resume2.jpg?raw=true"></a>
-</p>
-
-📝 **Here's my CVs** <br />
-You can see my resume [Here](https://github.com/GuardianOfGods/GuardianOfGods/blob/main/Files/MyCV-EN.pdf) or download from the link below: <br />
-<a href="https://github.com/GuardianOfGods/GuardianOfGods/raw/main/Files/MyCV-VN.pdf" download="MyCV-VN.pdf">MyCV-VN.pdf (Vietnamese)</a> <br />
-<a href="https://github.com/GuardianOfGods/GuardianOfGods/raw/main/Files/MyCV-ENG.pdf" download="MyCV-VN.pdf">MyCV-ENG.pdf (English)</a> <br />
-<br />
-<br />
-
-  ---
-
-<p>
-  <a href="https://github.com/GuardianOfGods/GuardianOfGods/blob/main/Media/Gif1.gif"><img width="300" align='right'src="Media/Gif1.gif?raw=true"></a>
+  <a href="https://github.com/GuardianOfGods/GuardianOfGods/blob/main/Media/Gif1.gif"><img width="500" align='right'src="Media/Gif1.gif?raw=true"></a>
 </p>
  
 🎮 **Here's my public games project** <br />
