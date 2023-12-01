@@ -34,9 +34,7 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
-        strategy:
-          matrix:
-            node: [16.x]
+          node: 16.x
 
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
