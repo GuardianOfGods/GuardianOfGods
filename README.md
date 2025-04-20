@@ -17,7 +17,7 @@
 🌱 I’m currently learning Unity especially on mobile games. <br>
 👯 I’m looking to collaborate on Game Development.<br>
 📫 How to reach me: Send an email to **guardian.of.gods99@gmail.com** or via [facebook](https://www.facebook.com/sThunderSwords/) <br>
-⚡ Fun fact: life is just another game. To win it, you should find your destination.<br>
+⚡ Fun fact: Life is just another game. To win it, you should find your destination.<br>
 </div>
 
   ---
